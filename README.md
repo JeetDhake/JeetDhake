@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- README.md for Backend Developer -->
 
-<!--
-**JeetDhake/JeetDhake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="">Jeet Dhake</h2>
+<p align="">Backend Developer | Node.js & Java Spring Boot | SQL</p>
 
-Here are some ideas to get you started:
+Experienced in designing, building, and deploying **high-performance backend systems**.  
+Focuses on writing **efficient, scalable server-side applications** with an emphasis on **database-driven performance** and **clean architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prioritize clear, maintainable code, thoughtful system design, and practical solutions that deliver **consistent performance in real-world environments**.
+
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks:**  
+`Node.js` `Java` `Spring Boot` `JavaScript` `C` 
+
+**Databases & Query Optimization:**  
+`MySQL` `PostgreSQL` `MongoDB`  
+
+### Contact Info
+✉️ Gmail: dhakejeet@gmail.com   
+🔗 LinkedIn: [MyLinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeet-dhake/))  
