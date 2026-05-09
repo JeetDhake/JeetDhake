@@ -19,4 +19,4 @@ I prioritize clear, maintainable code, thoughtful system design, and practical s
 
 ### Contact Info
 ✉️ Gmail: dhakejeet@gmail.com   
-🔗 LinkedIn: [MyLinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeet-dhake/))  
+🔗 LinkedIn: [MyLinkedIn](https://www.linkedin.com/in/jeet-dhake/)
