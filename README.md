@@ -15,6 +15,3 @@ My work focuses on **solving real-world engineering problems through thoughtful 
 
 **Databases & Query Optimization:**  
 `MySQL` `PostgreSQL` `MongoDB`  
-
-### Contact Info
-🔗 LinkedIn: [MyLinkedIn](https://www.linkedin.com/in/jeet-dhake/)
