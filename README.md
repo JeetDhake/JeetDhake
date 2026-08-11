@@ -1,13 +1,12 @@
 <!-- README.md for Backend Developer -->
 
 <h2 align="">Jeet Dhake</h2>
-<p align="">Backend Developer | Node.js & Java Spring Boot | SQL</p>
+<p align="">Software Development Engineer – Backend | Node.js | Java & Spring Boot | SQL</p>
 
 Experienced in designing, building, and deploying **high-performance backend systems**.  
 Focuses on writing **efficient, scalable server-side applications** with an emphasis on **database-driven performance** and **clean architecture**.
 
-I prioritize clear, maintainable code, thoughtful system design, and practical solutions that deliver **consistent performance in real-world environments**.
-
+My work focuses on **solving real-world engineering problems through thoughtful system design, maintainable code, performance optimization, and practical solutions** that deliver reliable and consistent results.
 
 ### 🛠 Tech Stack
 
