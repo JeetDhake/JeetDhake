@@ -17,5 +17,4 @@ My work focuses on **solving real-world engineering problems through thoughtful 
 `MySQL` `PostgreSQL` `MongoDB`  
 
 ### Contact Info
-✉️ Gmail: dhakejeet@gmail.com   
 🔗 LinkedIn: [MyLinkedIn](https://www.linkedin.com/in/jeet-dhake/)
